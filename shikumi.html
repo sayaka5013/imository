@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <title>Webサイトのしくみ</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <h2>Webサイトのしくみ</h2> 
+        
+        <p>WebサイトはWebサーバー上に置かれた<a href="html_is.html">htmlファイル</a>をブラウザで表示することで見れるしくみになっています。<br>
+        サーバーは、インターネットプロバイダーやアマゾンなどのサービスを提供する会社にありますが、一般のパソコンと同じようなものと考えていいです。サーバーに対して、アクセスするパソコンはクライアントと呼ばれます。</p>
+
+        <p>クライアント・・・一般のパソコン、スマホなど（ブラウザ）<br>
+            サーバー・・・Webページを保存しているコンピュータ</p>
+
+        <p>はじめにクライアント側のブラウザから、Webサイトを表示するリクエストメッセージが送られます。<br>次にサーバー側からレスポンスがあり、サイトのデータが送られ、ページが表示されます。</p>
+        
+        <h3>そのほかに覚えておくといいこと</h3>
+
+        <p>HTTP(Hypertext Transfer Protocol)・・・クライアントとサーバーがやり取りするための取り決め（プロトコル）<br>
+        DNS(Domain Name Servers)・・・ドメインネームサーバー。ドメイン名から、サイトの住所を教えてくれる。<br>
+        ドメイン名・・・https://github.com/などのアドレス名<br>
+        FTP(File Transfer Protocol)・・・Webサイトのデータをサーバーに送るときの取り決め。<br>Webサイトを作るときにFTPプログラムを使ってサーバーにデータをアップロードする。<br></p>
+
+        <h2>Webサイトのファイル</h2> 
+        <p>サーバーにあるWebサイトのファイルは、基本的に次のような構成になっています。</p>
+        <div class="mokuji">
+            <dl>
+                <dt>index.html</dd>
+                <dd>一番はじめに表示されるページで必ず必要。indexの名前にしておくと自動的に最初に表示される。</dd>
+    
+                <dt>styles.css</dt>
+                <dd>スタイルシート(CSSファイル)は、Webページのレイアウトやデザインを記述するもの。htmlの中に書くこともできる。</dd>
+    
+                <dt>script.js</dt>
+                <dd>スクリプト(JavaScriptファイル)は、Webページに動きを与えるもの。htmlの中に書くこともできる。</dd>
+
+                <dt>images</dt>
+                <dd>Webページに張り付ける写真などのファイルを入れておく</dd>
+            </dl>
+            </div>
+        <img src="images/files.png" class="shadow">
+
+        <p>もし自分のパソコン上でサイトを作った時、上のファイル構成になっていたら、サーバーにアップロードしたときも、全く同じ構成になっていないといけません。</p>
+
+
+        <footer>
+            <a href="index.html">Topに戻る</a>
+        
+        </footer>
+         
+
+    </body>
+</html>
