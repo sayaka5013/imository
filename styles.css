@@ -3,6 +3,11 @@ body {
   color:rgb(90, 90, 90);
   font-family:sans-serif;
 }
+
+footer {
+  font-size:smaller;
+}
+
 .mokuji{
   margin: 2em;
 }
