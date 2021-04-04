@@ -8,10 +8,19 @@ footer {
   font-size:smaller;
 }
 
-.mokuji{
-  margin: 2em;
-}
-
 .shadow {
   box-shadow: 0 10px 25px 0 rgba(90, 90, 90, 0.5);
+}
+
+textarea {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
+    padding: 10px;
+    color:rgb(50, 50, 50);
+    background-color:rgb(237, 245, 255);
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
 }
