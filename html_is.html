@@ -4,6 +4,11 @@
         <meta charset="utf-8">
         <title>HTMLを書いてみる</title>
         <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="/path/to/styles/default.css">
+        <script src="/path/to/highlight.min.js"></script>
+        <script>hljs.highlightAll();</script>
+
+
     </head>
     <body>
     <h2>HTMLを書いてみる</h2>
@@ -14,19 +19,18 @@
     
         <label>sayaka.html</label>
 
-        <textarea rows="10" cols="50">
-<!DOCTYPE html>
+<pre><code class="html">
+
 <html lang="ja">
   <head>
     <meta charset="utf-8">
-    <title>美樹さやか</title>
+    <title>miki sayaka</title>
   </head>
   <body>
-    <h1>美樹さやか</h1>
+    <h1>miki sayaka</h1>
   </body>
 </html>
-</textarea>
-
+</code></pre>
 <p><a href="sayaka.html">ブラウザでの表示</a>のようになれば成功です！</p>
 
 <h2>HTMLの要素</h2>
@@ -49,5 +53,8 @@
 <footer>
     <p><a href="index.html">目次に戻る</a></p>
 </footer>
+
+<script src="/highlight/highlight.pack.js"></script>
+<script>hljs.highlightAll();</script>
 </body>
 </html>
