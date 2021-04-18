@@ -17,11 +17,11 @@ Webページの作成を始めるにあたって、環境の設定から迷う�
 
 ### HTML/CSS/JavaScriptの基礎
 
-- [HTMLを書いてみる](html_is.md) **HTML**はWebページを書くための言語です。
+- [HTMLを書いてみる](html_is.md)  **HTML**はWebページを書くための言語です。
 
-- :construction: CSSでレイアウトしてみる **CSS**はWebページのレイアウトやデザインを記述するものです。
+- CSSでレイアウトしてみる :construction:  **CSS**はWebページのレイアウトやデザインを記述するものです。
 
-- :construction:  JavaScriptで動かしてみる **JavaScript**はWebページに動きを加えるものです。
+- JavaScriptで動かしてみる :construction:  **JavaScript**はWebページに動きを加えるものです。
 
 ※サンプルコードは、[ここ](https://github.com/TTS2141/imository)からダウンロードができます。
 
