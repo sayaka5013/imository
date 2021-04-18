@@ -11,15 +11,15 @@ Webページの作成を始めるにあたって、環境の設定から迷う�
 
 ### 基礎知識と準備
 
-[Webのしくみ](file:///C:/Users/TTS/Documents/Development/MyWebPages/GitHubPages/imository/shikumi.html)
+[Webのしくみ](shikumi.html)
 Webサイトを表示する仕組みを説明します。
 
-[パソコン環境と設定](file:///C:/Users/TTS/Documents/Development/MyWebPages/GitHubPages/imository/setting.html)
+[パソコン環境と設定](setting.html)
 Web作成をするために必要な環境を準備します。
 
 ### HTML/CSS/JavaScriptの基礎
 
-[HTMLを書いてみる](file:///C:/Users/TTS/Documents/Development/MyWebPages/GitHubPages/imository/html_is.html)
+[HTMLを書いてみる](html_is.html)
 **HTML**はWebページを書くための言語です。
 
 [CSSでレイアウトしてみる]（作成中）
