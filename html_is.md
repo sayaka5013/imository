@@ -1,12 +1,11 @@
 ## HTMLを書いてみる
-
 ---
 ### ブラウザで表示してみる
 
-とにかくなにかブラウザで表示してみよう。とゆうことで、エディタで次のHTMLコードをコピペして、
+とにかくなにかブラウザで表示してみよう。エディタで次のHTMLコードをコピペして、
 sayaka.htmlと名前を付けて保存しましょう。
-sayaka.html
 
+sayaka.html
   ```html
 <!DOCTYPE html>
 <html lang="ja">
@@ -24,6 +23,7 @@ sayaka.html
 
 ### HTMLの要素
 以下はHTMLの基本的な要素です。
+
 - `<!DOCTYPE html>`・・・最初に書く決まりみたいなもの
 - `<html>`・・・HTMLのコード全体が入る。必ず必要。
 - `<head>`・・・meta要素やtitle要素、検索のキーワードなど
