@@ -19,9 +19,9 @@ Webページの作成を始めるにあたって、環境の設定から迷う�
 
 - [HTMLを書いてみる](html_is.md)  **HTML**はWebページを書くための言語です。
 
-- CSSでレイアウトしてみる :construction:  **CSS**はWebページのレイアウトやデザインを記述するものです。
+- CSSでレイアウトしてみる  **CSS**はWebページのレイアウトやデザインを記述するものです。
 
-- JavaScriptで動かしてみる :construction:  **JavaScript**はWebページに動きを加えるものです。
+- JavaScriptで動かしてみる  **JavaScript**はWebページに動きを加えるものです。
 
 ※サンプルコードは、[ここ](https://github.com/TTS2141/imository)からダウンロードができます。
 
