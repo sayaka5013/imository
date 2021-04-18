@@ -19,7 +19,7 @@ Web作成をするために必要な環境を準備します。
 
 ### HTML/CSS/JavaScriptの基礎
 
-[HTMLを書いてみる](html_is.html)
+[HTMLを書いてみる](html_is.md)
 **HTML**はWebページを書くための言語です。
 
 [CSSでレイアウトしてみる]（作成中）
