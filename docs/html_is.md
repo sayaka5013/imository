@@ -19,7 +19,7 @@ sayaka.html
 </html>
   ```
 
-[ブラウザでの表示](/sample/sayaka.html) のようになれば成功です！
+[ブラウザでの表示](../sample/sayaka.html) のようになれば成功です！
 
 ### HTMLの要素
 以下はHTMLの基本的な要素です。
@@ -38,5 +38,5 @@ sayaka.html
 ちなみに`<p>〇〇〇</p>`は段落を入れる要素です。続く・・・
 
 ---
-[目次に戻る](/index.md)
+[目次に戻る](../index.md)
 

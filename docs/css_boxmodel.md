@@ -7,7 +7,7 @@
 
 要素とマージン、ボーダー、パディングの関係は、下のようになります。
 （ブラウザで確認できます）
-![box_model](images/box_model_cr.png)
+![box_model](../images/box_model_cr.png)
 
 
 例として、文章を含むdiv要素に、各属性を適用してみます。

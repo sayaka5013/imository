@@ -11,7 +11,7 @@ WebサイトはWebサーバー上に置かれたlファイルをブラウザで�
 
 はじめにクライアント側のブラウザから、Webサイトを表示するリクエストメッセージが送られます。次にサーバー側からレスポンスがあり、サイトのデータが送られ、ページが表示されます。
 
-![server_and_cliant](/images/server_and_cliant.png)
+![server_and_cliant](../images/server_and_cliant.png)
 
 ### そのほかに覚えておくといいこと
 
@@ -26,20 +26,17 @@ WebサイトはWebサーバー上に置かれたlファイルをブラウザで�
 
 - **index.html**
 ハイパーテキストファイル(HTMLファイル)。一番はじめに表示されるページで、この名前にしておくと自動的に最初に表示される。
-
 - **styles.css**
 スタイルシート(CSSファイル)は、Webページのレイアウトやデザインを記述するもの。htmlの中に書くこともできる。
-
 - **script.js**
 スクリプト(JavaScriptファイル)は、Webページに動きを与えるもの。htmlの中に書くこともできる。
-
 - **images**
 Webページに使う写真などの素材ファイルを入れておくフォルダ
 
-![files of web pages](/images/files.png)
+![files of web pages](../images/files.png)
 
 もし自分のパソコン上でサイトを作った時、上のファイル構成になっていたら、サーバーにアップロードしたときも、全く同じ構成になっていないといけません。
 
 ---
 
-[Topに戻る](/index.html)                
+[Topに戻る](../index.html)                
