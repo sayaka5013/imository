@@ -36,4 +36,5 @@ ex_css01.html
 </html>
 ```
 
-[実際の表示](../sample/ex_css_text.html)
+- [実際の表示](../sample/ex_css_text.html)
+- [Google Fonts](https://fonts.google.com/?subset=japanese)
