@@ -19,7 +19,7 @@ sayaka.html
 </html>
   ```
 
-[ブラウザでの表示](sayaka.html) のようになれば成功です！
+[ブラウザでの表示](sample/sayaka.html) のようになれば成功です！
 
 ### HTMLの要素
 以下はHTMLの基本的な要素です。
