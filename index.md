@@ -1,5 +1,5 @@
 ## ウェブ クック ノート  -Sのために-
-### Web Cooking Notes
+### Web Cooking Notes - for S -
 ---
 
 ### はじめに
