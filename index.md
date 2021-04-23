@@ -11,20 +11,24 @@ Webページの作成を始めるにあたって、環境の設定から迷う�
 
 ### WEBのしくみと準備
 
-- [Webのしくみ](shikumi.html) Webサイトを表示する仕組みを説明します。
+- [Webのしくみ](docs/shikumi.html) Webサイトを表示する仕組みを説明します。
 
-- [パソコン環境と設定](setting.html) Web作成をするために必要な環境を準備します。
+- [パソコン環境と設定](docs/setting.html) Web作成をするために必要な環境を準備します。
 
 ### HTMLを書いてみる
+
 **HTML**はWebページを書くための言語です。
-- [HTMLを書いてみる](html_is.md)  
+- [HTMLを書いてみる](docs/html_is.md) 
 
 ### CSSでスタイルしてみる
+
 **CSS**はWebページのレイアウトやデザインを記述するものです。
-- [文字にスタイルを適用する](css_text.md)
-- CSSでレイアウトしてみる  
+- [文字にスタイルを指定する](docs/css_text.md)
+- [HTML要素に余白を指定する](docs/css_boxmodel.md) 
+
 
 ### JavaScriptで動かしてみる
+
 **JavaScript**はWebページに動きを加えるものです。
 - (作成予定)
 

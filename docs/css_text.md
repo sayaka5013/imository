@@ -36,4 +36,4 @@ ex_css01.html
 </html>
 ```
 
-[実際の表示](sample/ex_css01.html)
+[実際の表示](/sample/ex_css_text.html)
