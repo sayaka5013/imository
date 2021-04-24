@@ -11,20 +11,23 @@
 - [パソコン環境と設定](docs/setting.html) Web作成をするために必要な環境を準備します。
 
 ### HTMLを書いてみる
-- [HTMLを書いてみる](docs/html_is.md) 
+- [HTMLを書いてみる](docs/html_is.html) 
 
 ### CSSでスタイルしてみる
-- [文字にスタイルを指定する](docs/css_text.md)
-- [HTML要素に余白を指定する](docs/css_boxmodel.md) 
+- [文字にスタイルを指定する](docs/css_text.html)
+- [HTML要素に余白を指定する](docs/css_boxmodel.html) 
 
 ### JavaScriptで動かしてみる
 - (作成予定)
+
+### canvasで絵を描いててみる
+- [簡単な図形を描く](docs/ex_canvas_01.html)
 
 ※サンプルコードは、[ここ](https://github.com/TTS2141/imository)からダウンロードができます。
 
 ---
 
-2021.4.23更新
+2021.4.24更新
 
 ---
 
