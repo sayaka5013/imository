@@ -20,10 +20,11 @@
 ### JavaScriptで動かしてみる
 - (作成予定)
 
-### canvasで絵を描いててみる
-- [簡単な図形を描く](docs/ex_canvas_01.html)
+### canvasで絵を描いてみる
+- [簡単な図形を描いてみる](docs/canvas_draw.html)
 
-※サンプルコードは、[ここ](https://github.com/TTS2141/imository)からダウンロードができます。
+
+[ファイル関係はここ](https://github.com/TTS2141/imository)
 
 ---
 
