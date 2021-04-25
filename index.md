@@ -31,6 +31,6 @@
 
 [GitHub](https://github.com/TTS2141/imository) | [TR Blog](https://tts2141.github.io/blog/)  
 
-<a href="https://trytogetheratjapan.org/"><img src="/images/TryTogetherAtJapanLogo.png" alt="TryTogether@Japan" ></img></a>
+<a href="https://trytogetheratjapan.org/"><img src="/images/TryTogetherAtJapanLogo.png" alt="TryTogether@Japan"/></a>
 
 
