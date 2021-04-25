@@ -29,8 +29,7 @@
 ---
 2021.4.25更新
 
-[GitHub](https://github.com/TTS2141/imository) | 
-[TR Blog](https://tts2141.github.io/blog/) | 
+[GitHub](https://github.com/TTS2141/imository) | [TR Blog](https://tts2141.github.io/blog/)  
 
 <a href="https://trytogetheratjapan.org/"><img src="/images/TryTogetherAtJapanLogo.png" alt="TryTogether@Japan" ></img></a>
 
