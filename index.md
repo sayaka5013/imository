@@ -24,12 +24,15 @@
 - [簡単な図形を描いてみる](docs/canvas_draw.html)
 
 
-[ファイル関係はここ](https://github.com/TTS2141/imository)
+
 
 ---
+2021.4.25更新
 
-2021.4.24更新
+[GitHub](https://github.com/TTS2141/imository)
+[TR Blog](https://tts2141.github.io/blog/)
+[TryTogether@Japan](https://trytogetheratjapan.org/)
 
----
 
-[猫山のブログ](https://tts2141.github.io/blog/)
+
+
