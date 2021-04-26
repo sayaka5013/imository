@@ -18,7 +18,7 @@
 - [HTML要素に余白を指定する](docs/css_boxmodel.html) 
 
 ### JavaScriptで動かしてみる
-- [クリックしてテキストを変える](/docs/js_change_text.html)
+- [クリックしてテキストを変える](docs/js_change_text.html)
 
 ### canvasで絵を描いてみる
 - [簡単な図形を描いてみる](docs/canvas_draw.html) 
