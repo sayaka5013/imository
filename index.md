@@ -18,7 +18,7 @@
 - [HTML要素に余白を指定する](docs/css_boxmodel.html) 
 
 ### JavaScriptで動かしてみる
-- (作成予定)
+- [クリックしてテキストを変える](/docs/js_change_text.html)
 
 ### canvasで絵を描いてみる
 - [簡単な図形を描いてみる](docs/canvas_draw.html) 
@@ -27,7 +27,6 @@
 
 
 ---
-2021.4.25更新
 
 [GitHub](https://github.com/TTS2141/imository) | 
 [TR Blog](https://tts2141.github.io/blog/)  
@@ -35,4 +34,4 @@
 ![TryTogether@Japan](/images/TryTogetherAtJapanLogo.png)
 [TryTogether@Japan](https://trytogetheratjapan.org/)
 
-
+2021.4.27更新
