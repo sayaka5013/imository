@@ -18,10 +18,10 @@
 - [HTML要素に余白を指定する](docs/css_boxmodel.html) 
 
 ### JavaScriptで動かしてみる
-- [クリックしてテキストを変える](docs/js_change_text.html)
+- [クリックしてテキストを変える](docs/js_change_text.html) ✨*New*
 
 ### canvasで絵を描いてみる
-- [簡単な図形を描いてみる](docs/canvas_draw.html) 
+- [簡単な図形を描いてみる](docs/canvas_draw.html) ✨*New*
 
 
 
@@ -29,7 +29,7 @@
 ---
 
 [GitHub](https://github.com/TTS2141/imository) | 
-[TR Blog](https://tts2141.github.io/blog/)  
+[Nlog](https://tts2141.github.io/blog/)  
 
 ![TryTogether@Japan](/images/TryTogetherAtJapanLogo.png)
 [TryTogether@Japan](https://trytogetheratjapan.org/)
