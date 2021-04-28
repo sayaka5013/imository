@@ -22,6 +22,8 @@
 
 ### canvasで絵を描いてみる
 - [簡単な図形を描いてみる](docs/canvas_draw.html) 
+
+### 3Dグラフィックを描画する
 - [キューブをぐるぐる回す](docs/cube.html) ✨*New*
 
 
@@ -30,7 +32,7 @@
 ---
 
 [GitHub](https://github.com/TTS2141/imository) | 
-[Nlog](https://tts2141.github.io/blog/)  
+[Xlog](https://tts2141.github.io/blog/)  
 
 ![TryTogether@Japan](/images/TryTogetherAtJapanLogo.png)
 [TryTogether@Japan](https://trytogetheratjapan.org/)
