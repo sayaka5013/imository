@@ -18,10 +18,11 @@
 - [HTML要素に余白を指定する](docs/css_boxmodel.html) 
 
 ### JavaScriptで動かしてみる
-- [クリックしてテキストを変える](docs/js_change_text.html) ✨*New*
+- [クリックしてテキストを変える](docs/js_change_text.html) 
 
 ### canvasで絵を描いてみる
-- [簡単な図形を描いてみる](docs/canvas_draw.html) ✨*New*
+- [簡単な図形を描いてみる](docs/canvas_draw.html) 
+- [キューブをぐるぐる回す](docs/cube.html) ✨*New*
 
 
 
@@ -34,4 +35,4 @@
 ![TryTogether@Japan](/images/TryTogetherAtJapanLogo.png)
 [TryTogether@Japan](https://trytogetheratjapan.org/)
 
-2021.4.27更新
+2021.4.28更新
