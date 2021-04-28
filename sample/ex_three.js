@@ -23,9 +23,9 @@ renderer.setSize( window.innerWidth, window.innerHeight );
 document.body.appendChild( renderer.domElement );
 
 // ジオメトリを作成
-const geometry = new THREE.BoxGeometry();
+const geometry = new THREE.BoxGeometry(1,1,1);
 // マテリアルを作成
-const material = new THREE.MeshPhongMaterial({color: 0x555555});  // greenish blue
+const material = new THREE.MeshStandardMaterial({color: 0x555555, roughness:0.5});
 // メッシュを作成（ジオメトリ、マテリアル）
 const cube = new THREE.Mesh( geometry, material );
 // メッシュをシーンに追加
