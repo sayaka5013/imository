@@ -25,7 +25,7 @@
 
 サンプルのプログラムを下の方に載せますので、設定を色々変えてやってみるといいと思います。Three.jsについて詳しく知りたいときは、以下のサイトを参考にしてください。
 
-- [Three.js](https://threejs.org/docs/index.html#manual/ja/introduction/Creating-a-scene)・・・Three.jsの本家。リファレンスやサンプルが色々あります。
+- [Three.js](https://threejs.org/)・・・Three.jsの本家。リファレンスやサンプルが色々あります。
 - [Three.jsの基礎](https://threejsfundamentals.org/threejs/lessons/ja/)・・・フラミンゴがいっぱい飛んでます。詳しいチュートリアルがあります。
 - [ICS.media](https://ics.media/tutorial-three/)・・・Three.jsとWeb技術の記事などわかりやすい記事が多くあります。
 
