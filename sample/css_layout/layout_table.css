@@ -1,0 +1,11 @@
+/* テーブルのスタイル */
+table {
+  font-size: 1rem;
+}
+
+/* テーブル要素のスタイル */
+td, th {
+  border: 1px solid #ffffff;
+  padding: 15px 20px;
+  background-color: blanchedalmond;
+}
