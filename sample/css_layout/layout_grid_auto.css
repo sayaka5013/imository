@@ -1,7 +1,5 @@
 
 .panel {
-  /* width: 1000px;
-  height: 1000px;   外枠も固定しない*/
   margin: 10px;
   padding: 10px;
   display: grid;  /* レイアウトをグリッドに設定 */
