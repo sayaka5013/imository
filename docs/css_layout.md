@@ -17,7 +17,7 @@
 
 - **グリッド**・・・画面を縦と横に格子状に分割して、その中に要素を入れていく感じです。ページ全体をレイアウトするのに向いています。親要素で`display: grid;`と指定します。  
   [グリッドレイアウトのサンプル](../sample/css_layout/layout_grid.html)  
-  [グリッドレイアウト（自動調整）のサンプル](../sample/css_layout/layout_grid.html)
+  [グリッドレイアウト（自動調整）のサンプル](../sample/css_layout/layout_grid_auto.html)
 
 - **テーブル（表）**・・・HTMLのタグで作成する。古くからのサイトなどでレイアウトに使われるていることもありますが、基本はデータをまとめるのに使います。  
   [テーブルのページサンプル](../sample/css_layout/layout_table.html)
