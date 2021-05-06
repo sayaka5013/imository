@@ -1,7 +1,10 @@
-## ウェブ クック ノート  -Sのために-
-### Web Cooking Notes - for S -
+# imository 
+### - SのためのWebページ講座 -
+
+2021.5.7更新
+
 ---
-2021.5.1更新
+
 
 ### はじめに
 このページでは、全くの初心者から、Webページ作成の基礎などを紹介していきます。
@@ -17,7 +20,8 @@
 ### CSSでスタイルしてみる
 - [文字にスタイルを指定する](docs/css_text.html) 
 - [HTML要素に余白を指定する](docs/css_boxmodel.html) 
-- [CSSページレイアウト方法まとめ ](docs/css_layout.html) ✨*New*
+- [CSSページレイアウト方法まとめ ](docs/css_layout.html) 
+- [画像などを中央にレイアウトする](docs/css_layout02.html)✨*New*
 
 ### JavaScriptで動かしてみる
 - [クリックしてテキストを変える](docs/js_change_text.html) 
