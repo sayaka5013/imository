@@ -48,9 +48,9 @@ html
 ```
 
 以下の記事、サイトを参考にさせてもらいました。
-- [上下中央揃えのCSSまとめ|ics.media](https://ics.media/entry/17522/)
-- [重ね合わせコンテキスト|MDN](https://developer.mozilla.org/ja/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
-- [モンスターハンターライズ|CAPCON](https://www.capcom.co.jp/monsterhunter/rise/)
+- [ics.media > 上下中央揃えのCSSまとめ](https://ics.media/entry/17522/)
+- [MDN > 重ね合わせコンテキスト](https://developer.mozilla.org/ja/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
+- [CAPCON > モンスターハンターライズ](https://www.capcom.co.jp/monsterhunter/rise/)
 
 ---
 
