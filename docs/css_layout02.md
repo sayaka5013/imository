@@ -1,4 +1,4 @@
-### 中央にレイアウトする 
+### 画像などを中央にレイアウトする 
 2021.5.6
 
 ---
@@ -52,5 +52,7 @@ html
 - [重ね合わせコンテキスト|MDN](https://developer.mozilla.org/ja/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
 - [モンスターハンターライズ|CAPCON](https://www.capcom.co.jp/monsterhunter/rise/)
 
+---
 
 [Topに戻る](../)
+
